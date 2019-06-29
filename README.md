@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![alt_img](https://i.imgur.com/GJcGWWe.png)
 
-![alt_img](https://i.imgur.com/GJcGWWe.png)
+![alt_img](https://i.imgur.com/SSYltzq.png)
 
 ## Development server
 
